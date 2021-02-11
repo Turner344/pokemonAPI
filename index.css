@@ -1,0 +1,58 @@
+body {
+  /* background-image: linear-gradient(to right, red, blue, rgb(42, 199, 42)); */
+  background-image: url(./assets/pexels-photo-1697861.jpeg);
+}
+
+.header {
+  color: white;
+}
+
+.pokemon {
+  justify-content: center;
+  text-align: center;
+  color: white;
+  margin-top: 2%;
+}
+
+.wrapper {
+  margin-left: 0%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.fire {
+  position: relative;
+  float: left;
+  background: transparent;
+  margin-left: 8%;
+  width: 10em;
+  color: rgb(202, 10, 10);
+}
+.water {
+  position: relative;
+  float: left;
+  margin-left: 29%;
+  width: 11em;
+  color: rgb(5, 62, 185);
+}
+.grass {
+  position: relative;
+  float: right;
+  margin-right: 8%;
+  background: transparent;
+  width: 10em;
+  color: rgb(36, 209, 6);
+}
+
+ul {
+  list-style-type: none;
+}
+
+.bodyText {
+  text-align: center;
+  padding: 50px;
+  font-size: 20px;
+  font-weight: bolder;
+  margin: auto;
+  color: white;
+}
