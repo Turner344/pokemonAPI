@@ -3,8 +3,13 @@ body {
   background-image: url(./assets/pexels-photo-1697861.jpeg);
 }
 
+h1 {
+  font-family: "Press Start 2P", cursive;
+}
+
 .header {
   color: white;
+  font-family: 'Press Start 2P', cursive;
 }
 
 .pokemon {
@@ -26,14 +31,16 @@ body {
   background: transparent;
   margin-left: 8%;
   width: 10em;
-  color: rgb(202, 10, 10);
+  color: rgb(236, 14, 14);
+  font-family: 'VT323', monospace;
 }
 .water {
   position: relative;
   float: left;
   margin-left: 29%;
   width: 11em;
-  color: rgb(5, 62, 185);
+  color: rgb(20, 89, 236);
+  font-family: 'VT323', monospace;
 }
 .grass {
   position: relative;
@@ -42,6 +49,7 @@ body {
   background: transparent;
   width: 10em;
   color: rgb(36, 209, 6);
+  font-family: 'VT323', monospace;
 }
 
 ul {
@@ -49,6 +57,7 @@ ul {
 }
 
 .bodyText {
+  font-family: "Press Start 2P", cursive;
   text-align: center;
   padding: 50px;
   font-size: 20px;
